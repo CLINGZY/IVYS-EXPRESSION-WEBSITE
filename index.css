@@ -773,20 +773,20 @@ a {
 
 /* MEDIA QUERIES */
 /* TABLET */
-/* @media(max-width: 768px) {
+@media(max-width: 768px) {
     .gallery-grid {
         display: flex;
         overflow-x: auto;
     }
 
     .gallery-image {
-        min-width: 250px;
+        min-width: 270px;
     }
 
     .gallery-grid::-webkit-scrollbar {
         display: none;
     }
-} */
+}
 
 
 
